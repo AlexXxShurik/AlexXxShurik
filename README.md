@@ -12,7 +12,7 @@
 
 ## О навыках
 
-Python, JavaScript, SQL, PHP, Django, Vue.js, Docker, Selenium, PostgreSQL, Git.
+Python, JavaScript, Django, FASTapi, Docker, Selenium, Redis, Nginx, CI/CD, SQL, PostgreSQL, Git.
 
 ## Опыт работы
 
